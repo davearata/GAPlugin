@@ -1,8 +1,8 @@
-package org.apache.cordova.plugin;
+package com.adobe.plugins;
 
 import com.google.analytics.tracking.android.*;
-import org.apache.cordova.api.CordovaPlugin;          // modificato da org.apache.cordova.CordovaPlugin a org.apache.cordova.api.CordovaPlugin
-import org.apache.cordova.api.CallbackContext;          // modificato org.apache.cordova.CallbackContext a org.apache.cordova.api.CallbackContext
+import org.apache.cordova.CordovaPlugin;          // modificato da org.apache.cordova.CordovaPlugin a org.apache.cordova.api.CordovaPlugin
+import org.apache.cordova.CallbackContext;          // modificato org.apache.cordova.CallbackContext a org.apache.cordova.api.CallbackContext
 import org.json.JSONArray;
 import org.json.JSONException;
 
